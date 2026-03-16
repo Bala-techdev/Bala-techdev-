@@ -66,7 +66,7 @@ Full Stack App using React + Spring Boot.
 # 📈 Coding Practice
 
 💡 Practicing Data Structures & Algorithms daily  
-Target: Product-based companies.
+
 
 ---
 
