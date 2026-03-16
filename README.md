@@ -48,6 +48,12 @@
 
 ---
 
+## 🛠 Languages & Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,python,cpp,react,html,css,js,spring,mysql,git,github,vscode,idea,postman" />
+</p>
+
 # 📊 GitHub Stats
 
 ![Bala's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bala-techdev &show_icons=true&theme=tokyonight)
