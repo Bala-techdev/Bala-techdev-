@@ -23,31 +23,6 @@
 
 ---
 
-# 🚀 Tech Stack
-
-### Languages
-<img height="40" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/> 
-<img height="40" src="https://img.icons8.com/color/48/javascript.png"/> 
-<img height="40" src="https://img.icons8.com/color/48/c-programming.png"/>
-
-### Frontend
-<img height="40" src="https://img.icons8.com/color/48/html-5.png"/>
-<img height="40" src="https://img.icons8.com/color/48/css3.png"/>
-<img height="40" src="https://img.icons8.com/color/48/react-native.png"/>
-
-### Backend
-<img height="40" src="https://img.icons8.com/color/48/spring-logo.png"/>
-
-### Database
-<img height="40" src="https://img.icons8.com/color/48/mysql-logo.png"/>
-
-### Tools
-<img height="40" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
-<img height="40" src="https://img.icons8.com/color/48/git.png"/>
-<img height="40" src="https://img.icons8.com/color/48/intellij-idea.png"/>
-
----
-
 ## 🛠 Languages & Tools
 
 <p align="left">
