@@ -37,92 +37,29 @@
 
 ## 🔥 Current Projects
 
-### 🚀 AI Health Assistant
-**Tech Stack:** React JS + CSS + Gemini AI API  
+🚀 **AI Health Assistant**  
+React JS + CSS + Gemini AI  
+AI-based web app that provides basic health guidance using symptom analysis.
 
-AI-powered web application that helps users get basic health guidance using Generative AI.  
-The system analyzes user symptoms and provides intelligent health suggestions.
+📋 **Complaint Management System** *(Ongoing)*  
+React JS + CSS + Spring Boot + MySQL  
+Full-stack system for registering and tracking complaints with an admin dashboard.
 
-**Features**
-- AI-powered health suggestions
-- Gemini AI integration
-- Simple and responsive UI
-- Real-time symptom analysis
+📰 **AI Fake News Detector** *(Ongoing)*  
+React JS + CSS + Spring Boot + MySQL + Gemini AI  
+Detects fake or misleading news using AI.
 
----
+🤖 **AI Domain-Based Response Engine** *(Ongoing)*  
+React JS + CSS + Spring Boot + MySQL + Ollama (Phi-3)  
+AI engine that generates domain-specific responses.
 
-### 📋 Complaint Management System *(Ongoing)*
-**Tech Stack:** React JS + CSS + Spring Boot + MySQL  
+✅ **Smart Todo Management System**  
+React JS + CSS + Spring Boot + MySQL  
+Task management app with add/edit/delete features.
 
-A full-stack web application designed to manage public or organizational complaints efficiently.
-
-**Features**
-- User complaint registration
-- Admin dashboard for complaint management
-- Complaint status tracking
-- Secure backend using Spring Boot
-- Database integration with MySQL
-
-⚙️ **Status:** Currently under development
-
----
-
-### 📰 AI Fake News Detection *(Ongoing)*
-**Tech Stack:** React JS + CSS + Spring Boot + MySQL + Gemini AI  
-
-An AI-powered system designed to detect misinformation in news content using AI models.
-
-**Features**
-- Detect fake or misleading news
-- AI analysis using Gemini API
-- React-based frontend
-- Secure backend API with Spring Boot
-- MySQL database storage
-
-⚙️ **Status:** Under development
-
----
-
-### 🤖 AI Domain-Based Response Engine *(Ongoing)*
-**Tech Stack:** React JS + CSS + Spring Boot + MySQL + Ollama (Phi-3 Model)
-
-A smart AI engine designed to generate responses based on specific domains such as education, governance, and customer support.
-
-**Features**
-- Domain-specific AI responses
-- Local AI model using **Ollama Phi-3**
-- API-based backend using Spring Boot
-- Structured knowledge storage using MySQL
-
-⚙️ **Status:** Ongoing project
-
----
-
-### ✅ Smart Todo Management System
-**Tech Stack:** React JS + CSS + Spring Boot + MySQL  
-
-A full-stack task management application to organize daily work efficiently.
-
-**Features**
-- Add / Edit / Delete tasks
-- Task completion tracking
-- REST API using Spring Boot
-- Persistent storage using MySQL
-
----
-
-### 💼 CodSoft Web Development Internship Projects
-**Tech Stack:** HTML + CSS + JavaScript  
-
-Projects developed during the **CodSoft Web Development Internship**.
-
-**Projects Included**
-- Portfolio Website
-- Calculator Web Application
-- Responsive Landing Page
-
-These projects focus on improving **frontend development skills and responsive design**.
-
+💼 **CodSoft Web Development Internship**  
+HTML + CSS + JavaScript  
+Projects: Portfolio Website, Calculator, Landing Page.
 ---
 
 # 📈 Coding Practice
